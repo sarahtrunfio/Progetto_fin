@@ -41,5 +41,22 @@ const carte=[
   {id: 37, storia: ".", immagine: "https://i.pinimg.com/1200x/d1/03/d8/d103d82106d9c358a9d82df31edf1a05.jpg", indice: 95.0},
   {id: 38, storia: "Sei una donna di pulizie alla polizia, ma un giorno noti un errore di un'investigazione risolvendo il caso, portandoti a essere assunta come consulente per la divisione di reati gravi.", immagine: "https://cdn.sortiraparis.com/images/80/69688/1136135-high-potential-l-adaptation-us-de-hpi-arrive-sur-disney.jpg", indice: 66.5},
   {id: 39, storia: "Ti trovi in una lotta per la sopravvivenza di un gruppo di persone in un mondo devastato da un’apocalisse zombie dove i veri pericoli spesso provengono dagli altri esseri umani.", immagine: "https://i.pinimg.com/1200x/aa/54/6d/aa546de50826f15eb11e68e794cd04f0.jpg", indice: 100.0},
-  {id: 40, storia: "Sei stato catturato da un uomo che decide di mettere alla prova le persone che considera indegne, costringendovi a fare.giochi mortali e affrontare prove estreme per dimostrare l'attaccamento alla vita.", immagine: "https://i.pinimg.com/736x/c1/ef/eb/c1efeb13676d56309003444c06af2f31.jpg", indice: 100.0},
+  {id: 40, storia: "Sei stato catturato da un uomo che decide di mettere alla prova le persone che considera indegne, costringendovi a fare giochi mortali e affrontare prove estreme per dimostrare l'attaccamento alla vita.", immagine: "https://i.pinimg.com/736x/c1/ef/eb/c1efeb13676d56309003444c06af2f31.jpg", indice: 100.0},
+  {id: 41, storia: "Scopri l'esistenza del multiverso e vieni catapultato in un viaggio attraverso diverse realtà, dove devi salvare solo l'universo e il legame con la tua famiglia.", immagine: "https://m.media-amazon.com/images/M/MV5BOWNmMzAzZmQtNDQ1NC00Nzk5LTkyMmUtNGI2N2NkOWM4MzEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", indice: 62.0},
+  {id: 42, storia: "Scopri che la tua ex ha deciso di sottoporsi a una procedura per cancellare tutti i ricordi legati a te e decidi di fare lo stesso, ma realizzi quanto realmente tenga a lei e cerchi di salvare i suoi ricordi..", immagine: "https://i0.wp.com/andrewggibson.com/wp-content/uploads/2023/02/Eternal-Sunshine-of-the-Spotless-Mind-813x1024.webp?ssl=1", indice: 50.0},
+  {id: 43, storia: "Incontri una ragazza che diventa subito l'amore della tua vita, ma scopri che per poterti fidanzare con lei devi sconfiggere i suoi 7 ex malvagi.", immagine: "https://underyours.com/cdn/shop/files/9119z_ppWgS.jpg?crop=center&height=1200&v=1747258999&width=1200", indice: 82.0},
+  {id: 44, storia: "Conosci questo signore con cui decidi di fondare un club di combattimento, il quale è vietato parlarne.", immagine: "https://i.pinimg.com/736x/1d/16/7d/1d167da48d42da7e935818f06e32922b.jpg", indice: 43.0},
+  {id: 45, storia: "Decidi di portare come tesina di fine anno un caso chiuso sull'omicidio di una ragazza popolare nella tua scuola, ma scopri che l'assassino non è quello che è sempre stato incolpato.", immagine: "https://bilder.wunschliste.de/gfx/pics/1200/In-A-Good-Girl-S-Guide-To-Murder-Ermittelt-Pip-Emma-Myers-Auf-Eigene-Faust-2.jpg.jpg", indice: 65.0},
+  {id: 46, storia: "Ti ritrovi in un futuro post-apocalittico, dove una forza misteriosa provoca suicidi di massa in tutto il mondo.", immagine: "https://www.tvpertutti.it/IMG/arton1132.jpg", indice: 98.0},
+  {id: 47, storia: "Ti rechi con i tuoi amici a Las Vegas per celebrare l'addio al celibato di uno di voi. Dopo una notte di festa, scoprite che lo sposo è scomparso e che la suite è devastata, non ricordando nulla, cercate di ricostruire gli eventi della notte precedente.", immagine: "https://m.media-amazon.com/images/S/aplus-media/vc/91550842-a195-44ac-ac07-3bf89b216646.__CR0,24,1000,619_PT0_SX970_V1___.jpg", indice: 88.0},
+  {id: 48, storia: "Tuo marito e la sua famiglia ti convincono a seguire una loro tradizione: fare un gioco casuale tra quelli disponibili, ma ti capita l'unico gioco mortale e pericoloso.", immagine: "https://i.pinimg.com/1200x/5a/f1/61/5af161147a50baf4385e2ce85233bc69.jpg", indice: 100.0},
+  {id: 49, storia: "Dopo un incidente, rimani bloccato sott’acqua su un pianeta alieno pieno di creature sconosciute..", immagine: "https://i.pinimg.com/1200x/ce/5c/8e/ce5c8e2acd2a52596dc0468ddac63847.jpg", indice: 87.0},
+  {id: 50, storia: "Ti prendi cura di creature magiche in un villaggio colorato pieno di campi e mulini.", immagine: "https://static0.srcdn.com/wordpress/wp-content/uploads/2022/08/Ooblets-Grumboire.jpg?q=50&fit=crop&w=825&dpr=1.5", indice: 3.0},
 ]
+
+export default function App (){
+  return(
+  <View style= {styles.containerMaster}>
+   </View>
+  )
+}
